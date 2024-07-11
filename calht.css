@@ -1,0 +1,17 @@
+body{
+    
+    background-color: rgb(18, 231, 246);
+}
+input{
+    background-color: rgb(223, 246, 17);
+    line-height: 50%;
+    
+}
+table{
+    background: rgb(57, 198, 122);
+}
+button{
+    height: 60px;
+    width: 60px;
+    background: rgba(255, 0, 255, 0.618);
+}
